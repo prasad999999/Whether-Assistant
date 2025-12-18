@@ -17,7 +17,7 @@
 ---
 
 ## 🏗️ Architecture
-
+````
 User (Browser)
 |
 v
