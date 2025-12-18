@@ -1,0 +1,33 @@
+# =====================
+# Python / FastAPI
+# =====================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+.env
+venv/
+.env.*
+
+# =====================
+# Node / React / Vite
+# =====================
+node_modules/
+dist/
+build/
+.vite/
+
+# =====================
+# OS / Editor
+# =====================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# =====================
+# Logs
+# =====================
+*.log
