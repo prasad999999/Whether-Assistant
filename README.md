@@ -3,6 +3,12 @@
 
 ---
 
+## 🎥 Demo Video
+
+https://github.com/user-attachments/assets/4a6c6c30-815d-4ab2-844a-c32147ed81ff
+
+---
+
 ## 🚀 Features
 
 - React-based frontend (Vite)
